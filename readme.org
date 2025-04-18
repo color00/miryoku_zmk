@@ -1,3 +1,7 @@
+* Miryoku ZMK GACS Layout
+
+[[https://raw.githubusercontent.com/color00/miryoku_zmk/blob/master/miryoku-kle-cover-miryoku_zmk_GACS.png]]
+
 # Copyright 2023 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
