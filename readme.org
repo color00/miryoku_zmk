@@ -1,4 +1,4 @@
-* Miryoku ZMK GACS Layout
+* Miryoku ZMK GACS Home Row Mods
 
 [[https://raw.githubusercontent.com/color00/miryoku_zmk/master/miryoku-kle-cover-miryoku_zmk_GACS.png]]
 
