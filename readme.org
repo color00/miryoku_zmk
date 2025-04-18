@@ -1,7 +1,8 @@
-* Miryoku ZMK GACS Home Row Mods
+* Miryoku ZMK GACS Home Row Mods for ColemakDH Base Layer
 
 [[https://raw.githubusercontent.com/color00/miryoku_zmk/master/miryoku-kle-cover-miryoku_zmk_GACS.png]]
 
+* ORIGINAL CONTENT
 # Copyright 2023 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
